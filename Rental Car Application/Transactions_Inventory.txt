@@ -1,0 +1,239 @@
+
+Pick up Date: Oct 14, 2019
+Return Date: Oct 15, 2019 = Days: 2
+Full Name: aarti sharma
+Age: 20
+Location: deccan
+Contact: 9028862336
+Licence: 1234567890
+Car: Bus-2007
+Total Rent Price: 1400.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 6, 2019 = Days: 6
+Full Name: f f
+Age: 34
+Location: vbnmnbv
+Contact: 45678
+Licence: 345
+Car: Taxi-2002
+Total Rent Price: 1500.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Feb 1, 2019 = Days: 30
+Full Name: w gh
+Age: 34
+Location: fghj
+Contact: 567
+Licence: 23456
+Car: Van-2009
+Total Rent Price: 15000.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 4, 2019 = Days: 4
+Full Name: e s
+Age: 34
+Location: dfghj
+Contact: 56789
+Licence: 234567
+Car: Bus-2007
+Total Rent Price: 2800.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 4, 2019 = Days: 4
+Full Name: ert fghjk
+Age: 34
+Location: fghjkl
+Contact: 12345
+Licence: 89034567
+Car: Taxi-2002
+Total Rent Price: 1000.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Feb 1, 2019 = Days: 30
+Full Name: gh fghb
+Age: 34
+Location: fghjkl
+Contact: 345678
+Licence: 34567
+Car: Bus-2007
+Total Rent Price: 21000.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 3, 2019 = Days: 3
+Full Name: fghjh 45678
+Age: 34
+Location: fghbjnkm
+Contact: 45678
+Licence: 5678
+Car: Bus-2007
+Total Rent Price: 2100.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 1
+Full Name: piyu patil
+Age: 34
+Location: dhule
+Contact: 1234
+Licence: 09865467
+Car: Taxi-2002
+Total Rent Price: 250.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 6, 2019 = Days: 6
+Full Name: neeta sharma
+Age: 34
+Location: wadgaon
+Contact: 5367829
+Licence: 563820
+Car: Van-2009
+Total Rent Price: 3000.00 
+---------------------------------------------------------------------
+Current Date: Dec 7, 2019
+ 
+Pick up Date: Dec 8, 2019
+Return Date: Dec 10, 2019 = Days: 3
+Full Name: abcd xyzw
+Age: 19
+Location: asdfghjk
+Contact: 1234567
+Licence: 0987654
+Car: Van-2009
+Total Rent Price: 1500.00 
+---------------------------------------------------------------------
+Current Date: Jan 7, 2019
+ 
+Pick up Date: Jan 11, 2019
+Return Date: Jan 12, 2019 = Days: 2
+Full Name: hema g
+Age: 20
+Location: gjsehkfjl
+Contact: 12345
+Licence: 098765
+Car: Van-2009
+Total Rent Price: 1000.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 1
+Full Name: n p
+Age: 34
+Location: pune
+Contact: 35353
+Licence: 3434
+Car: Pick-up-2013
+Total Rent Price: 300.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 1
+Full Name: er ghj
+Age: 34
+Location: fghjk
+Contact: 234567
+Licence: 345678
+Car: Van-2009
+Total Rent Price: 500.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 3, 2019 = Days: 3
+Full Name: AARTI SHARMA
+Age: 29
+Location: DECCAN
+Contact: 2345678
+License: 098765434567
+Car: Pick-up-2013
+Total Rent Price: 900.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 1
+Full Name: NIKHIL CHAVHAN
+Age: 20
+Location: SHIVAJINAGAR
+Contact: 12345678
+License: 098765432
+Car: Pick-up-2013
+Total Rent Price: 300.00 
+---------------------------------------------------------------------
+Current Date: Jul 19, 2019
+ 
+Pick up Date: Jul 21, 2019
+Return Date: Aug 2, 2019 = Days: 0
+Full Name: RUTUJA BHALE
+Age: 20
+Location: BEED
+Contact: 9011779177
+License: 1234567890
+Car: Bus-2007
+Total Rent Price: 0.00 
+---------------------------------------------------------------------
+Current Date: Oct 15, 2019
+ 
+Pick up Date: Oct 15, 2019
+Return Date: Oct 26, 2019 = Days: 12
+Full Name: neha pawar
+Age: 34
+Location: Pune
+Contact: 676778
+License: 454656
+Car: Bus-2007
+Total Rent Price: 8400.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 6, 2019 = Days: 6
+Full Name: uyt ytre
+Age: 34
+Location: iuytr
+Contact: 87654
+License: 23456
+Car: Pick-up-2013
+Total Rent Price: 1800.00 
+---------------------------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 2, 2019
+Return Date: Jan 4, 2019 = Days: 3
+Full Name: qwer okijuhg
+Age: 34
+Location: jhgf
+Contact: 1234
+License: 98765
+Car: Bus-2007
+Total Rent Price: 2100.00 
+---------------------------------------------------------------------
+Current Date: Oct 15, 2019
+ 
+Pick up Date: Oct 15, 2019
+Return Date: Oct 24, 2019 = Days: 10
+Full Name: shubh funde
+Age: 34
+Location: pune
+Contact: 98989898
+License: 565656
+Car: Pick-up-2013
+Total Rent Price: 3000.00 
+---------------------------------------------------------------------
